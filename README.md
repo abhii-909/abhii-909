@@ -2,11 +2,8 @@
 <h3 align="center">Welcome to my GitHub page! I'm currently a computer science sophomore!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhii-909&label=Profile%20views&color=0e75b6&style=flat" alt="abhii-909" /> </p>
+
   
-
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
-
-
 #### 🌱 Things I am currently working on: 
 - Finish my Computer Engineering Degree 
 - Trying to keep up a decent rank on coding platforms 🚀
