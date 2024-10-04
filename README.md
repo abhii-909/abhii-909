@@ -22,7 +22,6 @@
 #### Others: 
 <p>
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=abhii-909&show_icons=true&hide_border=true" />
- [![An image of @abhii909's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhii909)](https://holopin.io/@abhii909)
 
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white">
@@ -30,3 +29,4 @@
 <img src="http://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=ffffff">
 <img src="http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff">
 </p>
+<p> [![An image of @abhii909's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhii909)](https://holopin.io/@abhii909)</p>
