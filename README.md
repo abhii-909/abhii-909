@@ -33,7 +33,4 @@
 <img src="http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff">
 <p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhii-909&show_icons=true&locale=en&layout=compact" alt="abhii-909" /></p> 
 
-<h3 align="left">Achievements:</h3>
-
-[![An image of @supuna97's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhii909)](https://holopin.io/@abhii909)
-<br><br><br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshatpandey2006&" alt="akshatpandey2006" /></p>
