@@ -33,4 +33,4 @@
 <img src="http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff">
 <p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhii-909&show_icons=true&locale=en&layout=compact" alt="abhii-909" /></p> 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshatpandey2006&" alt="akshatpandey2006" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhii-909&" alt="abhii-909" /></p>
