@@ -28,4 +28,8 @@
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="http://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=ffffff">
 <img src="http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff">
-</p>[![An image of @abhii909's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhii909#)](https://holopin.io/@abhii909#)
+
+<h3 align="left">Achievements:</h3>
+
+[![An image of @supuna97's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhii909)](https://holopin.io/@abhii909)
+<br><br><br>
